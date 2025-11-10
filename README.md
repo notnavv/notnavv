@@ -1,10 +1,6 @@
 <!-- ✨ Aarnav Dharia | UCLA ✨ -->
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/UCLA_Bruins_logo.svg/2560px-UCLA_Bruins_logo.svg.png" width="50%" height="50%" >
-</p>
-
-<h2 align="center">Hi, I'm Aarnav!</h2>
+<h1 align="center">Hey, I'm Aarnav!</h1>
 
 <p align="center">
   AI • Data Science • Design<br>
