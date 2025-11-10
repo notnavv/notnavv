@@ -25,9 +25,9 @@
 ### Tech Stack  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" width="130" height="40" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" width="130" height="40" />
+  <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" width="130" height="40" />
 </p>
 
 ---
