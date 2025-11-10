@@ -8,7 +8,7 @@
 
 <p align="center">
   AI • Data Science • Design<br>
-  <strong>UCLA '29 · Statistics & Data Science + maybe(Computational Biology)</strong>
+  <strong>UCLA '29 · Statistics & Data Science (+ maybe: Computational Biology)</strong>
 </p>
 
 ---
