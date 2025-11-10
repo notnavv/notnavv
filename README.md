@@ -1,7 +1,7 @@
 <!-- ✨ Aarnav Dharia | UCLA ✨ -->
 
 <p align="center">
-  <img src="https://i.imgur.com/3lQ2Z0K.png" width="100%" alt="Banner with 'Hey, I'm Aarnav'">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/UCLA_Bruins_logo.svg/2560px-UCLA_Bruins_logo.svg.png" width="100%" alt="Banner with 'Hey, I'm Aarnav'">
 </p>
 
 <h2 align="center">Hi, my name is Aarnav Dharia</h2>
