@@ -15,8 +15,7 @@
 
 ### About Me  
 - Exploring the intersection of **AI, data, and product design**  
-- Building projects   
-- Passionate about **UI/UX**, **visual storytelling**, and **data-driven apps**  
+- Building projects and learning  
 - I love collaborating, mentoring, and building products that actually help people  
 - Reach out to me: [adharia9@ucla.edu](mailto:adharia9@ucla.edu)
 
@@ -24,7 +23,7 @@
 
 ### Tech Stack  
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -44,7 +43,7 @@
 
 ---
 
-### 📊 GitHub Stats  
+### GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aarnavdharia&show_icons=true&theme=tokyonight&hide_border=true" height="160em"/>
