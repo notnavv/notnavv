@@ -3,7 +3,7 @@
 <h1 align="center">Hey, I'm Aarnav!</h1>
 
 <p align="center">
-  AI • Data Science • Design<br>
+  I'm based in New Jersey and LA, and I'm super interested in AI, Data Science, and Design<br>
   <strong>UCLA '29 · Statistics & Data Science (+ maybe: Computational Biology)</strong>
 </p>
 
