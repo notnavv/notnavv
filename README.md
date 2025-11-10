@@ -38,20 +38,19 @@
 ---
 
 ### Featured Projects  
-
-(Coming soon)
+- [The Button Game](
 
 ---
 
 ### GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aarnavdharia&show_icons=true&theme=tokyonight&hide_border=true" height="160em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarnavdharia&layout=compact&theme=tokyonight&hide_border=true" height="160em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=notnavv&show_icons=true&theme=tokyonight&hide_border=true" height="160em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notnavv&layout=compact&theme=tokyonight&hide_border=true" height="160em"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aarnavdharia&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=notnavv&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
