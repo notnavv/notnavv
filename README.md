@@ -7,7 +7,7 @@
 <h2 align="center">Hi, my name is Aarnav Dharia</h2>
 
 <p align="center">
-  <em>AI • Data Science • Design • Product</em><br>
+  AI • Data Science • Design<br>
   <strong>UCLA '29 · Statistics & Data Science + maybe(Computational Biology)</strong>
 </p>
 
