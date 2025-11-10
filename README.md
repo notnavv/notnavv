@@ -1,62 +1,73 @@
-<!--
-✨ Welcome to your new GitHub Profile README! ✨
-
-This template is designed to mimic the structure and flow of the profile you shared.
-Follow the steps below to customize it for your profile:
-
-Replace all [BRACKETS] with your personal information.
-
-The original profile used a custom image for the purple 'HELLO WORLD' banner and the cool owl mascot. You'll need to create and host your own images for those visual effects. I've left a placeholder for the banner.
-
-Replace all instances of [YOUR-USERNAME] with your actual GitHub username to load the stats cards.
-
-Uncomment the optional sections (Profile Views, Tech Stack) if you want to include them!
--->
-
-<!--
-This spot is reserved for your custom banner image.
-You will need to create and upload an image (e.g., to an Imgur link or a public repo folder)
-that contains your custom 'HELLO WORLD' graphic.
--->
+<!-- ✨ Aarnav Dharia | UCLA ✨ -->
 
 <p align="center">
-<img src="https://live.staticflickr.com/3215/2812556989_63f6fd8452_b.jpg" alt="Banner Placeholder" />
+  <img src="https://i.imgur.com/3lQ2Z0K.png" width="100%" alt="Banner with 'Hey, I'm Aarnav 👋'">
 </p>
 
-👋 I'm Aarnav!
-I am a freshman at UCLA, passionate in Artificial Intelligence, Data Science, and Design. I enjoy creating graphic designs and video editing as a hobby, and I'm excited to leverage my skills and interests to make a meaningful impact on the world! I can be reached via email at adharia9@ucla.edu.
+<h2 align="center">👋 Hey, I'm Aarnav Dharia</h2>
 
-🔥 Key Highlights & Current Focus
-🧑‍🎓 Student of life :) I believe that every day is a learning opportunity and a chance to improve.
-
-💡 Currently learning and focusing heavily on PyTorch and Pandas.
-
-✍️ I write technical blogs and share my learnings on platforms like LinkedIn.
-
-🤝 Actively contributing to Open Source projects to give back to the developer community.
-
-🗺️ Visit my [Portfolio Link Text] for a detailed overview of my projects and experience.
-
-Example: My Portfolio
-
-📊 GitHub Activity & Stats
-<!-- GitHub Trophy Card (as seen in the original profile's style) -->
-
-<p align="left">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3D[YOUR-USERNAME]&theme=ambient&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+<p align="center">
+  <em>AI • Data Science • Design • Product</em><br>
+  <strong>UCLA '29 · Statistics & Data Science + Biomedical Research</strong>
 </p>
 
-<!-- GitHub Stats Card -->
+---
 
-<p align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-</a>
+### 🚀 About Me  
+- 🧠 Exploring the intersection of **AI, data, and product design**  
+- 🧑‍💻 Building projects like **Traddo**, **Bruin Eats**, and **Coffee** — merging code with creativity  
+- 🖌️ Passionate about **UI/UX**, **visual storytelling**, and **data-driven apps**  
+- 🏊‍♂️ Competitive **swimmer** turned **developer** who loves pushing limits — in and out of the pool  
+- 💬 I love collaborating, mentoring, and building products that *actually help people*  
+- 📫 Reach me: [adharia9@ucla.edu](mailto:adharia9@ucla.edu)
+
+---
+
+### 🧩 Tech Stack  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
-🛠️ Tech Stack Badges
-<p align="left">
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python Badge"></a>
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/React-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" alt="React Badge"></a>
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB Badge"></a>
+---
+
+### 🌟 Featured Projects  
+
+🔹 **[Traddo](https://github.com/aarnavdharia/traddo)** — Social investing app that bridges trading & community  
+🔹 **[Bruin Eats](https://github.com/aarnavdharia/bruin-eats)** — UCLA dining optimizer built with Next.js + Supabase  
+🔹 **[Coffee](https://github.com/aarnavdharia/coffee)** — Campus social app prototype (React + Tailwind + Firebase)
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aarnavdharia&show_icons=true&theme=tokyonight&hide_border=true" height="160em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarnavdharia&layout=compact&theme=tokyonight&hide_border=true" height="160em"/>
+</p>
+
+---
+
+### 🧠 Currently Learning  
+- Deep Learning with **PyTorch**  
+- Building better APIs with **Supabase**  
+- Design systems & accessibility in **Next.js**
+
+---
+
+### ✨ Fun Facts  
+- 🎙️ I run a podcast called *Next Gen Athletes*  
+- 🎨 I love experimenting with motion graphics & color palettes  
+- 🌍 My favorite projects are the ones that make tech feel *human*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aarnavdharia&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
