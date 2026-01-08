@@ -3,8 +3,8 @@
 <h1 align="center">Hey, I'm Aarnav!</h1>
 
 <p align="center">
-  I'm based in New Jersey and LA, and I'm super interested in AI, Data Science, and Design<br>
-  <strong>UCLA '29 · Statistics & Data Science (+ maybe: Computational Biology)</strong>
+  I'm based in NJ & LA, and I'm very interested in Sports, AI, Data Science, and Design<br>
+  <strong>UCLA '29 · Statistics & Data Science</strong>
 </p>
 
 ---
@@ -28,8 +28,8 @@
 ---
 
 ### Currently Learning  
-- Backend with **JS**
-- Deep Learning with **PyTorch**   
+- C++
+- R 
 
 ---
 
