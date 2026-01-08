@@ -1,6 +1,6 @@
 <!-- ✨ Aarnav Dharia | UCLA ✨ -->
 
-<h1 align="center">Hey, I'm Aarnav!</h1>
+<h1 align="center">Hi, I'm Aarnav!</h1>
 
 <p align="center">
   I'm based in NJ & LA, and I'm very interested in Sports, AI, Data Science, and Design<br>
@@ -9,10 +9,7 @@
 
 ---
 
-### About Me  
-- Exploring the intersection of **AI, data, and product design**  
-- Building projects and learning  
-- I love collaborating, mentoring, and building products that actually help people  
+### Contact
 - Reach out to me: [adharia9@ucla.edu](mailto:adharia9@ucla.edu)
 
 ---
@@ -34,15 +31,6 @@
 
 ### Featured Projects  
 - [The Button Game](https://notnavv.github.io/ButtonGame/)
-
----
-
-### GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=notnavv&show_icons=true&theme=tokyonight&hide_border=true" height="160em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notnavv&layout=compact&theme=tokyonight&hide_border=true" height="160em"/>
-</p>
 
 ---
 
