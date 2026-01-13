@@ -30,6 +30,7 @@
 ---
 
 ### Featured Projects  
+- [SoundSpy](https://github.com/notnavv/SoundSpy)
 - [The Button Game](https://notnavv.github.io/ButtonGame/)
 
 ---
