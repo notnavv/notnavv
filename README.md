@@ -30,8 +30,9 @@
 
 **About**
 - 📍 Based in **NJ & LA**
-- 🧠 Interested in **Sports**, **AI**, **Data Science**, **Design**
+- 🏀 Interested in **Sports**, **AI**, **Data Science**, **Design**
 - 🎓 **UCLA '29 · Statistics & Data Science**
+- ✉️ **Contact Me:** adharia9@ucla.edu
 
   </td>
     </tr>
