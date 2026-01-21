@@ -93,9 +93,10 @@
       <td width="520" align="left">
 
 **Featured Projects**
-- 🎮 **The Button Game** — interactive web game  
+- 🎶 **SoundSpy** - a music discovery tool built to analyze what actually makes a song feel the way it does
+  https://soundspy.vercel.app/
+- 🎮 **The Button Game** — a fun interactive web game  
   https://notnavv.github.io/ButtonGame/
-- **More Coming Soon**
 
   </td>
     </tr>
