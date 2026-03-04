@@ -93,9 +93,12 @@
       <td width="520" align="left">
 
 **Featured Projects**
-- 🎶 **SoundSpy** - a music discovery tool built to analyze what actually makes a song feel the way it does
+- **SoundSpy** - a music discovery tool built to analyze what actually makes a song feel the way it does
   https://soundspy.vercel.app/
-- 🎮 **The Button Game** — a fun interactive web game  
+- **Data Journalism: Bruin Sports Analytics** - A sports article predicting the final 2025–26 NBA playoff seedings using a regression model and
+trajectory analysis built on 911 games of real-season data.
+  https://github.com/notnavv/BSA-Data-Journalism
+- **The Button Game** — a fun interactive web game  
   https://notnavv.github.io/ButtonGame/
 
   </td>
