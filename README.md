@@ -95,6 +95,8 @@
       <td width="520" align="left">
 
 **Featured Projects**
+- **Bruin Eats** - A nutrition tracking app for students that scrapes data directly from dining hall websites and condenses it into one convenient platform
+  https://apps.apple.com/us/app/bruin-eats/id6760919610
 - **SoundSpy** - a music discovery tool built to analyze what actually makes a song feel the way it does
   https://soundspy.vercel.app/
 - **Data Journalism: Bruin Sports Analytics** - A sports article predicting the final 2025–26 NBA playoff seedings using a regression model and
