@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2500&pause=600&center=true&vCenter=true&width=520&lines=Statistics+%26+Data+Science+%C2%B7+UCLA;I+make+things+I+find+interesting;that+help+people." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2500&pause=600&center=true&vCenter=true&width=520&lines=Statistics+%26+Data+Science+%C2%B7+UCLA;I+build+things+I+find+interesting;and+things+I+actually+use." />
 </p>
 
 <br/>
